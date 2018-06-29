@@ -10,8 +10,9 @@ namespace SimpleFactory
     {
         static void Main(string[] args)
         {
-            
-            IDoor door = new DoorFactory().CreateDoor(100,200);
+
+            DoorFactory doorFactory = new DoorFactory();
+            IDoor door = doorFactory.CreateDoor(100, 200);
             Console.WriteLine($"Ширина - {door.GetWidth()},  Высота - {door.GetHeight()}");
             Console.ReadKey();
         }

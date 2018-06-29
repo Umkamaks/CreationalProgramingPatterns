@@ -7,6 +7,8 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CreationalProgramingPattern
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFactory\SimpleFactory.csproj", "{C210E613-D9CF-4481-BE23-646BE0D6F892}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{33D7AFE6-CD7F-413A-89DB-A3B00B9C562B}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		CreationalProgramingPatterns\CreationalProgramingPatterns.projitems*{d5c30b70-5824-4b70-a238-2773e0651910}*SharedItemsImports = 13
@@ -20,6 +22,10 @@ Global
 		{C210E613-D9CF-4481-BE23-646BE0D6F892}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C210E613-D9CF-4481-BE23-646BE0D6F892}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C210E613-D9CF-4481-BE23-646BE0D6F892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D7AFE6-CD7F-413A-89DB-A3B00B9C562B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D7AFE6-CD7F-413A-89DB-A3B00B9C562B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D7AFE6-CD7F-413A-89DB-A3B00B9C562B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D7AFE6-CD7F-413A-89DB-A3B00B9C562B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
