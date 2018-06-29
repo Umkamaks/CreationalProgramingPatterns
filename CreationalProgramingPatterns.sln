@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CreationalProgramingPatterns", "CreationalProgramingPatterns\CreationalProgramingPatterns.shproj", "{D5C30B70-5824-4B70-A238-2773E0651910}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		CreationalProgramingPatterns\CreationalProgramingPatterns.projitems*{d5c30b70-5824-4b70-a238-2773e0651910}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1AEBB3E-93EC-4217-85E2-3587F67D4F4C}
+	EndGlobalSection
+EndGlobal
